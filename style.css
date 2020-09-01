@@ -33,7 +33,7 @@ a {
 }
 
 .outerclass {
-  background-image: url(/images/girl.jpg);
+  background-image: url(("../images/girl.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
